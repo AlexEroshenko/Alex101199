@@ -1,4 +1,3 @@
-//учебная программа
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
@@ -7,4 +6,5 @@ int main(void)
     printf("input 2 whole number");
     scanf("%d%d", &a,&b);
     printf("a+b=%d+%d",a,b);
+
 }
